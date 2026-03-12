@@ -2,7 +2,9 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b77405ab-47f3-4288-aa55-fe391d6706c6/InsertValues.sql" value="b77405ab-47f3-4288-aa55-fe391d6706c6" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b77405ab-47f3-4288-aa55-fe391d6706c6/NullValues.sql" value="b77405ab-47f3-4288-aa55-fe391d6706c6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b77405ab-47f3-4288-aa55-fe391d6706c6/Queries.sql" value="b77405ab-47f3-4288-aa55-fe391d6706c6" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b77405ab-47f3-4288-aa55-fe391d6706c6/Rollbacks.sql" value="b77405ab-47f3-4288-aa55-fe391d6706c6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b77405ab-47f3-4288-aa55-fe391d6706c6/table_creation.sql" value="b77405ab-47f3-4288-aa55-fe391d6706c6" />
   </component>
 </project>

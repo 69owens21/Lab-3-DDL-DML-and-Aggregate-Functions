@@ -1,0 +1,13 @@
+| E\_id | E\_name | Age | Salary | D\_id |
+| :--- | :--- | :--- | :--- | :--- |
+| 101 | Anu | 22 | 9000 | null |
+| 102 | Shane | 29 | 8000 | null |
+| 103 | Rohan | 34 | 6000 | null |
+| 104 | Scott | 44 | 10000 | null |
+| 105 | Tiger | 35 | 8000 | null |
+| 106 | Alex | 27 | 7000 | null |
+| 107 | Abhi | 29 | 8000 | null |
+| 110 | Gracie | 21 | null | null |
+| 901 | Test1 | 20 | 1000 | null |
+| 902 | Test2 | 20 | 1000 | null |
+| 903 | Test3 | 20 | 1000 | null |

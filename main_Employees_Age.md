@@ -1,0 +1,10 @@
+| E\_name | Age |
+| :--- | :--- |
+| Anu | 22 |
+| Shane | 29 |
+| Rohan | 34 |
+| Scott | 44 |
+| Tiger | 35 |
+| Alex | 27 |
+| Abhi | 29 |
+| Gracie | 21 |

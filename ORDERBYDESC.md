@@ -1,0 +1,10 @@
+| E\_name | Salary |
+| :--- | :--- |
+| Scott | 10000 |
+| Anu | 9000 |
+| Shane | 8000 |
+| Tiger | 8000 |
+| Abhi | 8000 |
+| Alex | 7000 |
+| Rohan | 6000 |
+| Gracie | null |
